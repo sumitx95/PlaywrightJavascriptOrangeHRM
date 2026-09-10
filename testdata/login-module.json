@@ -1,0 +1,5 @@
+{   
+    "wrongUsername":"adminwrngusername",
+    "wrongPassword":"adminwrngpassword",
+    "invalidCredentialsMessage":"Invalid credentials"
+}
