@@ -12,7 +12,8 @@
     "test_demo_ff_hl": "cross-env ENV_NAME=demo npx playwright test --project=firefox",
     "test_demo_ui":  "cross-env ENV_NAME=demo npx playwright test --ui",
     "test_demo_tagUI":"cross-env ENV_NAME=demo npx playwright test --project=chromium --grep=@UI",
-    "test_demo_lastrun":"cross-env ENV_NAME=demo npx playwright test --project=chromium --last-failed"
+    "test_demo_lastrun":"cross-env ENV_NAME=demo npx playwright test --project=chromium --last-failed",
+    "test_demo_api":" cross-env ENV_NAME=demo npx playwright test --project=apiTest"
     
   
   },

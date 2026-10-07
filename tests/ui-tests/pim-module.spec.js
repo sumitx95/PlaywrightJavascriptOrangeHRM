@@ -1,5 +1,5 @@
-import{test ,expect} from '../fixtures/hooks-fixture';
-import pimData from '../testdata/pim-module-data.json';
+import{test ,expect} from '../../fixtures/hooks-fixture';
+import pimData from '../../testdata/pim-module-data.json';
 
 test('PIM Module Test', async ({gotourl,leftNavigationPage,pimPage}) => {
 

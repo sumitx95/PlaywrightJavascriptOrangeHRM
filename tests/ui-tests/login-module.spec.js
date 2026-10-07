@@ -1,5 +1,5 @@
-import{test,expect} from '../fixtures/hooks-fixture';
-import loginmoduledata from '../testdata/login-module.json';
+import{test,expect} from '../../fixtures/hooks-fixture';
+import loginmoduledata from '../../testdata/login-module.json';
 
 test.use({ storageState:{
     cookies: [],

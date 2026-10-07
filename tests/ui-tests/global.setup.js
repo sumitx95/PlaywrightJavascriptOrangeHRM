@@ -1,4 +1,4 @@
-import{test} from '../fixtures/pom-fixture';
+import{test} from '../../fixtures/pom-fixture';
 import { expect } from '@playwright/test';
 
 test('Global Setup Test', async ({ page, loginPage , dashboardPage}) => {
